@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1674315038 source:d:\student management system\src\date.cpp
+	"Date.h"
+
+1674316233 d:\student management system\include\date.h
+
+1674315015 source:d:\student management system\src\biodata.cpp
+	"BioData.h"
+
+1674316166 d:\student management system\include\biodata.h
+	<string>
+
+1674315061 source:d:\student management system\src\subjectsmarksprimary.cpp
+	"SubjectsMarksPrimary.h"
+
+1674316490 d:\student management system\include\subjectsmarksprimary.h
+
+1674315079 source:d:\student management system\src\subjectsmarkssecond.cpp
+	"SubjectsMarksSecond.h"
+
+1674316533 d:\student management system\include\subjectsmarkssecond.h
+
+1674372266 source:d:\student management system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"Student.h"
+	"Faculty.h"
+
+1672458661 d:\student management system\include\ll_functions.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	<windows.h>
+	"Student.h"
+	"Faculty.h"
+
+1674316576 d:\student management system\include\student.h
+	"Date.h"
+	"BioData.h"
+	"SubjectsMarksPrimary.h"
+	"SubjectsMarksSecond.h"
+	<fstream>
+	<sstream>
+
+1674316326 d:\student management system\include\faculty.h
+	"Date.h"
+	"BioData.h"
+
+1674372290 source:d:\student management system\src\faculty.cpp
+	"Faculty.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1674371958 source:d:\student management system\src\student.cpp
+	"Student.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+
+1672408735 source:d:\student management system - copy\src\biodata.cpp
+	"BioData.h"
+
+1672420357 d:\student management system - copy\include\biodata.h
+	<string>
+
+1672408234 source:d:\student management system - copy\src\date.cpp
+	"Date.h"
+
+1672408214 d:\student management system - copy\include\date.h
+
+1672420393 source:d:\student management system - copy\src\subjectsmarksprimary.cpp
+	"SubjectsMarksPrimary.h"
+
+1672409081 d:\student management system - copy\include\subjectsmarksprimary.h
+
+1672409254 source:d:\student management system - copy\src\subjectsmarkssecond.cpp
+	"SubjectsMarksSecond.h"
+
+1672409276 d:\student management system - copy\include\subjectsmarkssecond.h
+
+1672461477 source:d:\student management system - copy\src\student.cpp
+	"Student.h"
+	<iostream>
+	<fstream>
+	<ctime>
+
+1672461662 d:\student management system - copy\include\student.h
+	"Date.h"
+	"BioData.h"
+	"SubjectsMarksPrimary.h"
+	"SubjectsMarksSecond.h"
+	<fstream>
+	<sstream>
+
+1672553324 source:d:\student management system - copy\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"Student.h"
+	"Faculty.h"
+
+1672461716 d:\student management system - copy\include\ll_functions.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<sstream>
+	<windows.h>
+	"Student.h"
+	"Faculty.h"
+
+1672500078 d:\student management system - copy\include\faculty.h
+	"Date.h"
+	"BioData.h"
+
+1672461477 source:d:\student management system - copy\src\faculty.cpp
+	"Faculty.h"
+	<iostream>
+	<fstream>
+	"LL_Functions.h"
+

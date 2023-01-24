@@ -1,0 +1,33 @@
+Student Name:Bob
+Father Name:Mike
+Student Age:15
+Student CNIC:37405-7558616-5
+Student Grade:9
+Student Roll_No:123
+Student Address:St No.03 Alpha Town
+Day:25
+Month:8
+Year:2008
+Student Fee_Status:1
+Student Name:John
+Father Name:Addams
+Student Age:16
+Student CNIC:32487-4265879-5
+Student Grade:10
+Student Roll_No:456
+Student Address:H No.169 St No.08 Beta Town
+Day:20
+Month:6
+Year:2007
+Student Fee_Status:1
+Student Name:Alice
+Father Name:George
+Student Age:17
+Student CNIC:12489-5336487-6
+Student Grade:10
+Student Roll_No:789
+Student Address:H No.ABC St No.ABC DEF Town
+Day:12
+Month:9
+Year:2006
+Student Fee_Status:0

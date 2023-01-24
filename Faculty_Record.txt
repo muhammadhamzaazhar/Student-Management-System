@@ -1,0 +1,20 @@
+Name:Alex
+Father Name:Williams
+Education:PhD in Computer Science
+Address:H No.155 St No.05 Gamma Town 
+CNIC:78945-3215487-6
+Age:45
+ID:123
+Day:12
+Month:9
+Year:2010
+Name:Stewart
+Father Name:Mike
+Education:Masters in Physics
+Address:H No.ABC St no.ABC DEF Town
+CNIC:63215-9661578-5
+Age:40
+ID:456
+Day:7
+Month:8
+Year:2016

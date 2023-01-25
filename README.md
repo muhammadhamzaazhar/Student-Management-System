@@ -1,5 +1,8 @@
 # Student-Management-System
 
+Login Credentials:
+Username and password is in the txt file named as authen
+
 Methodologies Used:
 
 •	Linked List (to store student and faculty information)
